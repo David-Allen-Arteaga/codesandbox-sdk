@@ -80,7 +80,7 @@
     "@codesandbox/pitcher-common": "0.360.2",
     "@codesandbox/pitcher-protocol": "0.360.4",
     "@hey-api/client-fetch": "^0.7.3",
-    "@hey-api/openapi-ts": "^0.63.2",
+    "@hey-api/openapi-ts": "^0.85.0",
     "@types/blessed": "^0.1.25",
     "@types/yargs": "^17.0.33",
     "blessed": "^0.1.81",
